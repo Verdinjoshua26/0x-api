@@ -130,7 +130,7 @@
         "@0x/web3-wrapper": "^7.0.4",
         "@types/uuid": "^7.0.2",
         "@types/uuid-validate": "^0.0.1",
-        "axios": "^0.19.2",
+        "axios": "^1.8.2",
         "body-parser": "^1.19.0",
         "cors": "^2.8.5",
         "debug": "^4.1.1",
@@ -144,7 +144,7 @@
         "pg": "^7.12.1",
         "pino": "^5.13.5",
         "retry-axios": "^2.1.2",
-        "typeorm": "0.2.18",
+        "typeorm": "0.3.21",
         "uuid": "^7.0.3",
         "uuid-validate": "^0.0.3",
         "ws": "^7.1.2"
